@@ -1,4 +1,4 @@
-#微信模板消息推送使用Python MongoDB Redis
+# 微信模板消息推送使用Python MongoDB Redis
 
 每两个小时获取一次token 使用另一个脚本，并且写入redis
 
